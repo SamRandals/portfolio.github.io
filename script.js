@@ -19,7 +19,7 @@ proyect2.addEventListener("click",()=>{
 })
 proyect3.addEventListener("click",()=>{
 
-    window.open("https://co.pinterest.com/","blank")
+    window.open("https://samrandals.github.io/whatsappClon.github.io/","blank")
 })
 proyect4.addEventListener("click",()=>{
 
