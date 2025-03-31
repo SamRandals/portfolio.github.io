@@ -27,7 +27,7 @@ proyect4.addEventListener("click",()=>{
 })
 proyect5.addEventListener("click",()=>{
 
-    window.open("https://co.pinterest.com/","blank")
+    window.open("https://samrandals.github.io/roblox.github.io/","blank")
 })
 
 
